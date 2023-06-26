@@ -1,4 +1,4 @@
-# Ensuring thermodynamic consistency with invertible coarse-graining
+# Adaptive nonequilibrium design of actin-based metamaterials: fundamental and practical limits of control
 
 Official implementation of:  
 
